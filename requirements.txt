@@ -1,0 +1,6 @@
+pandas
+yt-dlp
+mutagen
+tqdm
+openpyxl
+ffmpeg-python
