@@ -1,3 +1,5 @@
 songs.xlsx
 downloaded_songs
 .venv
+.DS_Store
+.gitattributes
